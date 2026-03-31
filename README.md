@@ -1,6 +1,6 @@
 # Projeto-de-Banco-de-Dados
 GRUPO: Simpet
-INTEGRANTES: Matheus Talon - u018, Antonio - u072, Cauã - u016, Jõao Vitor - 
+INTEGRANTES: Matheus Talon - u018, Antonio - u072, Cauã - u016, Jõao Vitor - u008
 
 ''' TEMA: Clínica Veterinária
     OBJETIVO GERAL: Tratar de animais domésticos e venda de produtos
